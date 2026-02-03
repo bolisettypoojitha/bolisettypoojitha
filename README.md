@@ -2,8 +2,8 @@
 
 A passionate **AI/ML Engineer & Software Developer**, currently pursuing **Bachelor of Technology in Computer Science and Engineering (2022–2026)** at **Dhanekula Institute of Engineering & Technology, Vijayawada**.
 
-🔭 Currently working on **AI/ML and Full Stack projects using Python and Flask**  
-📚 Continuously learning **Machine Learning, Data Structures, and backend development**  
+🔭 Currently working on **AI/ML and Full Stack projects using Python, Flask, and LLM APIs**  
+📚 Continuously learning **Machine Learning, Data Structures, Algorithms, and backend systems**  
 📫 Reach me at **poojibollisetty@gmail.com**
 
 ---
@@ -14,18 +14,46 @@ A passionate **AI/ML Engineer & Software Developer**, currently pursuing **Bache
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Skills & Technologies
 
-### Programming & AI/ML
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+### 👩‍💻 Programming Languages
+- Python  
+- C  
+- Java (Basic)  
+- JavaScript  
 
-### Web & Database
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+### 🌐 Web & Full Stack Development
+- Flask  
+- HTML5  
+- CSS3  
+- Bootstrap  
+
+### 🗄️ Databases & Tools
+- PostgreSQL  
+- Git & GitHub  
+- VS Code  
+- Postman  
+- pgAdmin  
+
+### 🤖 AI / Machine Learning
+- Machine Learning fundamentals  
+- Time Series Analysis  
+- LSTM, Prophet  
+- Exploratory Data Analysis (EDA)  
+- Model Evaluation & Optimization  
+
+### 🔗 APIs & LLMs
+- Gemini API  
+- Hugging Face Transformers  
+- API Integration & Testing  
+
+### 💡 Professional Skills
+- Problem Solving  
+- Analytical Thinking  
+- Team Collaboration  
+- Communication  
+- Agile Development  
 
 ---
 
-⭐ *Building real-world AI-powered applications and learning every day.*
+⭐ *Building real-world AI-powered applications and continuously improving my skills.*
