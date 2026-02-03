@@ -16,8 +16,6 @@ A passionate **AI/ML Engineer & Software Developer**, currently pursuing **Bache
 
 ## 🛠️ Skills & Technologies
 
-## 🛠️ Skills & Technologies
-
 ### 👩‍💻 Programming & AI/ML
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
