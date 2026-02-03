@@ -16,36 +16,30 @@ A passionate **AI/ML Engineer & Software Developer**, currently pursuing **Bache
 
 ## 🛠️ Skills & Technologies
 
-### 👩‍💻 Programming Languages
-- [Python](https://www.python.org/)
-- [C](https://en.wikipedia.org/wiki/C_(programming_language))
-- [Java (Basic)](https://www.oracle.com/java/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+## 🛠️ Skills & Technologies
 
-### 🌐 Web & Full Stack Development
-- [Flask](https://flask.palletsprojects.com/)
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Bootstrap](https://getbootstrap.com/)
+### 👩‍💻 Programming & AI/ML
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-orange?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time%20Series-blueviolet?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-yellow?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-red?style=for-the-badge)
+
+### 🌐 Web & Backend
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
 
 ### 🗄️ Databases & Tools
-- [PostgreSQL](https://www.postgresql.org/)
-- [Git](https://git-scm.com/) & [GitHub](https://github.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Postman](https://www.postman.com/)
-- [pgAdmin](https://www.pgadmin.org/)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
-### 🤖 AI / Machine Learning
-- [Machine Learning](https://scikit-learn.org/)
-- [Time Series Analysis](https://otexts.com/fpp3/)
-- [LSTM](https://en.wikipedia.org/wiki/Long_short-term_memory)
-- [Prophet](https://facebook.github.io/prophet/)
-- [Exploratory Data Analysis (EDA)](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
 
-### 🔗 APIs & LLMs
-- [Gemini API](https://ai.google.dev/)
-- [Hugging Face Transformers](https://huggingface.co/docs/transformers)
-- API Integration & Testing
 
 ### 💡 Professional Skills
 - Problem Solving  
